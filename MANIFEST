@@ -6,6 +6,7 @@ README
 lib/Convert/Age.pm
 t/00-load.t
 t/01-check.t
+t/02_decode_age.t
 t/boilerplate.t
 t/pod-coverage.t
 t/pod.t

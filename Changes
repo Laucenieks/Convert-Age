@@ -1,5 +1,13 @@
 Revision history for Convert-Age
 
+0.05	Fri Feb 22 16:39:22 EST 2013
+        Changes by Normunds Neimanis <normunds at cpan.org>
+        Added Weeks and Months de/encoding capability.
+        Added decode_age_strict
+        Added tests for decode_age_strict
+        Updated documentation
+        Updated original tests to be able to test weeks.
+
 0.03	Wed Jul 11 12:47:46 MDT 2007
         Remove dependence on YAML
 
